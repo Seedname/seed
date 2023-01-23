@@ -12,7 +12,7 @@ class Canvas {
     
     this.fillS = "rgba(255,255,255,1)";
     this.strokeS = "rgba(255,255,255,1)";
-    this.backgroundS = "rgba(255,255,255,1);
+    this.backgroundS = "rgba(255,255,255,1)";
     this.useStroke = true;
   }
   
@@ -31,7 +31,7 @@ class Canvas {
  
       return;
     }
-    this.backgroundS = "rgba(255,255,255,1);
+    this.backgroundS = "rgba(255,255,255,1)";
 
   }
   
