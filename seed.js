@@ -1,4 +1,4 @@
-class Canvas {
+export class Canvas {
   constructor(width, height) {
     const canvas = document.createElement('canvas');
     canvas.width = width;
@@ -79,3 +79,5 @@ class Canvas {
   }
   
 }
+
+
